@@ -18,6 +18,7 @@
     <img align="center" height="30" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" height="30" width="40" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="mssql src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
    </div>
     
   
