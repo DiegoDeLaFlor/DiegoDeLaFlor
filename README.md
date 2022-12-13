@@ -24,7 +24,7 @@
    </div>
     
   <h1 align="center">Social Networks</h1>
-    <a href = "email: diegoalonso139@gmail.com">
+    <a href = "mailto:diegoalonso139@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/diego-de-la-flor-02048a237/">
