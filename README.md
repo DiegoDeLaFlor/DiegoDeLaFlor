@@ -22,6 +22,10 @@
     <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" height="30" width="40" alt="angularjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img align="center" height="30" width="40" alt="android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+     <img align="center" height="30" width="40" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" height="30" width="40" alt="jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+    <img align="center" height="30" width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    </div>
     
   <h1 align="center">Social Networks</h1>
