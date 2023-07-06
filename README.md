@@ -9,24 +9,63 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Best Technologies</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" height="30" width="40" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="30" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" height="30" width="40" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="mssql" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-    <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="https://nodejs.org/">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    </a>
+    <a href="https://isocpp.org/">
+      <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+      <img align="center" height="30" width="40" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img align="center" height="30" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img align="center" height="30" width="40" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+    </a>
+    <a href="https://www.mysql.com/">
+      <img align="center" height="30" width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server/">
+      <img align="center" height="30" width="40" alt="mssql" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+    </a>
+    <a href="https://www.python.org/">
+      <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="https://vuejs.org/">
     <img align="center" height="30" width="40" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" height="30" width="40" alt="angularjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" height="30" width="40" alt="android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-     <img align="center" height="30" width="40" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" height="30" width="40" alt="jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-    <img align="center" height="30" width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" height="30" width="40" alt="selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+    </a>
+    <a href="https://angular.io/">
+      <img align="center" height="30" width="40" alt="angularjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    </a>
+    <a href="https://www.android.com/">
+      <img align="center" height="30" width="40" alt="android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+    </a>
+     <a href="https://flutter.dev/">
+      <img align="center" height="30" width="40" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    </a>
+    <a href="https://www.jenkins.io/">
+      <img align="center" height="30" width="40" alt="jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+    </a>
+    <a href="https://www.docker.com/">
+      <img align="center" height="30" width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    </a>
+    <a href="https://www.selenium.dev/">
+      <img align="center" height="30" width="40" alt="selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+    </a>
+    <a href="https://github.com/features/actions">
+      <img align="center" height="30" width="40" alt="github-actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    </a>
    </div>
     
   <h1 align="center">Social Networks</h1>
