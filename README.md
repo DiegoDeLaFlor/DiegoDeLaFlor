@@ -60,8 +60,8 @@
     <a href="https://www.docker.com/">
       <img align="center" height="30" width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     </a>
-    <a href="https://www.selenium.dev/">
-      <img align="center" height="30" width="40" alt="selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+    <a href="https://www.selenium.dev/selenium-ide/">
+      <img align="center" height="30" width="40" alt="selenium-ide" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
     </a>
     <a href="https://github.com/features/actions">
       <img align="center" height="30" width="40" alt="github-actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
