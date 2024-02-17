@@ -84,5 +84,5 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/DiegoDeLaFlor/DiegoDeLaFlor/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
