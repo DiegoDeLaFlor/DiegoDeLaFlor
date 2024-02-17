@@ -1,6 +1,6 @@
-<div  align="center">
+<h1  align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=11B3F7&random=false&width=435&lines=Hi+there!+;I'm+Diego+De+La+Flor" alt="Typing SVG" /></a>
-</div>
+</h1>
 
 <div>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=DiegoDeLaFlor&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
