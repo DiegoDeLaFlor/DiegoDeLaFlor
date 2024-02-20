@@ -71,16 +71,16 @@
    </div>
     
   <h1 align="center">Social Networks</h1>
-    <a target="_blank" href = "mailto:diegoalonso139@gmail.com">
+    <a href = "mailto:diegoalonso139@gmail.com" target="_blank">
       <img width="30" src="gmail.svg">
     </a>
-    <a target="_blank" href = "https://www.linkedin.com/in/diego-de-la-flor-02048a237/">
+    <a href = "https://www.linkedin.com/in/diego-de-la-flor-02048a237/" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a target="_blank" href = "https://www.youtube.com/@diegodelaflor2926">
+    <a href = "https://www.youtube.com/@diegodelaflor2926" target="_blank">
       <img width="35" src="youtube.svg">
     </a>
-    <a target="_blank" href = "https://www.instagram.com/diego_alonso20025/">
+    <a href = "https://www.instagram.com/diego_alonso20025/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
 </div>
