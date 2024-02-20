@@ -11,10 +11,10 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Best Technologies</h1>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+     <a target="_parent" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <a target="_parent" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
