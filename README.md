@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey,+I'm+Diego+De+La+Flor+👋;AI+Developer+%26+QA+Automation+Engineer;Architecting+Intelligence+into+Engineering." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey,+I'm+Diego+De+La+Flor+👋;AI+Developer+%C2%B7+LLM+Agents+%C2%B7+RAG;Building+QA+skills+that+run+in+production." />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-de-la-flor-02048a237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://diegodelaflor.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=astro&logoColor=white"/>
+  </a>
   <a href="mailto:diegoalonso139@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DiegoDeLaFlor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@CronoZ2926" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -25,111 +25,112 @@
 
 ## 🎯 About Me
 
-> **I architect AI-driven solutions that turn engineering bottlenecks into competitive advantages.**
+> **I build LLM-agent skills and RAG pipelines that run in production and save engineering teams real hours.**
 
-I'm a **Full Stack & AI Developer** with **2.7+ years** of hands-on experience building production systems that scale — from QA automation and backend architectures to intelligent agents that ship faster.
+I'm an **AI Developer at Mandü HR** with **3 years** of experience and a **QA → Full Stack → AI** progression inside the same production HR tech.
 
-My expertise lies at the intersection of **LLMs, RAG pipelines, MCP integrations, and cloud-native systems**. I transform slow, manual processes into autonomous workflows that free engineering teams to focus on impact.
+I'm part of the team that maintains the engineering area's **internal LLM-agent toolkit**, and I **own the QA vertical**: I design, maintain and evolve every QA skill the team consumes. The RAG pipeline I designed cut test-case creation time by **70.9%** (50h → 14.55h per sprint), and I refactored it into the modular skills I maintain today.
 
-### Core Competencies:
+My focus is **maintainability**: impact that holds up sprint after sprint, not just in a demo.
 
-- **Autonomous Agents & RAG:** Building context-aware systems that integrate organizational knowledge (Jira, Confluence, Figma) with LLM reasoning
-- **QA Intelligence:** Reducing test authoring cycles by **70.9%** through intelligent automation and DOM capture
-- **Cloud Architecture:** Designing microservices ecosystems with DDD principles, event-driven patterns, and independent deployment capabilities
-- **AI & LLM Integration:** Prompt engineering, structured outputs, retrieval-augmented generation, and MCP server development
-- **Legacy Modernization:** Migrating monolithic systems (PHP/Laravel) to modular, scalable architectures (NestJS, Angular)
+### What I work on
 
----
-
-## 🏆 Featured Engineering Projects
-
-### 1️⃣ QA Intelligence Agent (RAG + MCP Integration)
-
-| Dimension      | Details                                                                                                                                                                                                                                                                                             |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Challenge**  | QA teams manually cross-referenced Jira tickets, Confluence specs, and Figma designs to author test cases — a bottleneck that slowed releases and introduced errors. Knowledge lived in silos.                                                                                                      |
-| **Solution**   | Built a **RAG-powered autonomous agent** that ingests and semantically indexes organizational knowledge across Jira, Confluence, and Figma via Google Cloud APIs. The agent generates context-aware Cypress E2E tests automatically, eliminating manual spec-gathering and reducing cognitive load. |
-| **Tech Stack** | `MCP` `LangChain` `Anthropic API` `Python` `Jira API` `Confluence API` `Figma API` `Google Cloud` `Cypress` `RAG`                                                                                                                                                                                   |
-| **Impact**     | **70.9% reduction** in test creation time (50h → 14.55h per sprint cycle). Zero manual context-switching. Tests are generated from the single source of truth.                                                                                                                                      |
-
-### 2️⃣ Four Dreams — Cloud Architecture & Microservices
-
-| Dimension      | Details                                                                                                                                                                                                                                                           |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Challenge**  | Monolithic application prevented independent deployments, created tight coupling between features, and slowed time-to-market for new modules. Scaling was coupled; refactoring was risky.                                                                         |
-| **Solution**   | Architected a **domain-driven design (DDD)** migration to microservices on Azure. Modeled bounded contexts (Booking, Security, Profile, Management), deployed as independent services with async messaging. Implemented event-driven patterns for loose coupling. |
-| **Tech Stack** | `Azure` `Domain-Driven Design (DDD)` `Microservices` `C#` `.Net` `SQL Server`                                                                                                                                                                                     |
-| **Impact**     | Independent deployments enabled 3x faster feature releases. Service ownership clarified; team velocity increased. Scaling became predictable per domain.                                                                                                          |
-| **Repository** | [github.com/fourdreamsupc](https://github.com/fourdreamsupc)                                                                                                                                                                                                      |
-
-### 3️⃣ AdventureHub — Mobile & Fintech Integration
-
-| Dimension      | Details                                                                                                                                                                                                                                                          |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Challenge**  | Travel booking required a seamless, secure mobile experience with real-time inventory management, cart persistence, and PCI-compliant payment processing. Mobile-first users expected instant responsiveness.                                                    |
-| **Solution**   | Developed a **Flutter application** with real-time cart synchronization, dynamic trip availability, and Stripe payment integration (PCI DSS compliant). Built a NestJS backend with event-driven order processing and WebSocket updates for live booking status. |
-| **Tech Stack** | `Flutter` `Dart` `NestJS` `TypeScript` `Stripe API` `WebSockets` `PostgreSQL` `JWT Auth` `Firebase`                                                                                                                                                              |
-| **Impact**     | Sub-200ms payment processing. 99.5% uptime during peak bookings. Enabled 50K+ monthly transactions securely.                                                                                                                                                     |
-| **Repository** | [github.com/AdventureHub-AplicacionesMoviles](https://github.com/AdventureHub-AplicacionesMoviles)                                                                                                                                                               |
-
-### 4️⃣ Legacy-to-Modern Architect — AI-Powered Code Modernization
-
-| Dimension      | Details                                                                                                                                                                                                                                   |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Challenge**  | Teams inheriting legacy codebases (PHP, VB.NET, old JavaScript) face manual, error-prone rewrites that take months. Automating modernization is underexplored.                                                                            |
-| **Solution**   | Built an **LLM-powered CLI tool** that parses legacy code, identifies anti-patterns, and generates modernized implementations aligned to target frameworks and coding standards. Supports batch processing and configurable output rules. |
-| **Tech Stack** | `Python` `OpenAI API` `AST Parsing` `LLM Chains` `Click CLI`                                                                                                                                                                              |
-| **Impact**     | Reduces modernization effort from weeks to days. Standardizes architectural decisions across the codebase. Fully open-source.                                                                                                             |
-| **Repository** | [github.com/DiegoDeLaFlor/Legacy-to-Modern-Architect](https://github.com/DiegoDeLaFlor/Legacy-to-Modern-Architect)                                                                                                                        |
+- **LLM agents & RAG in production** — Jira/Confluence ingestion, pgvector + ChromaDB, OpenAI & Anthropic APIs, MCP integrations, context engineering
+- **QA automation with LLMs** — test-case generation from sprint docs, Jira upload, endpoint → Postman mapping, Playwright E2E generation with automatic evidence
+- **Multi-agent orchestration** — LangGraph state machines with review-retry loops (see the public repos below)
+- **Full-stack foundation** — NestJS, React, Angular, Laravel, .NET; SQL/NoSQL; Azure, Docker
 
 ---
 
-## 🔬 Professional Collaboration & Engineering Labs
+## 🏆 Featured Projects — code available
 
-### Diseño de Experimentos (QA & DevOps Excellence)
+### 1️⃣ Legacy-to-Modern Architect — AI migration agent
 
-|                  |                                                                                                                |
-| ---------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Focus**        | Advanced QA automation, CI/CD pipeline architecture, and performance engineering.                              |
-| **Key Projects** | Jenkins-based CI/CD pipelines, BDD testing with Cucumber, Load & Stress testing suites for backend validation. |
-| **Tech**         | `Jenkins` `Cucumber` `BDD` `JMeter` `Selenium` `Docker` `GitHub Actions`                                       |
-| **Repository**   | [github.com/Diseno-de-Experimentos](https://github.com/Diseno-de-Experimentos)                                 |
+| | |
+| --- | --- |
+| **Problem** | Migrating a legacy codebase (Java, PHP, TypeScript, Python, COBOL) to a clean modern architecture is months of manual, error-prone rewriting. |
+| **Solution** | A **6-stage LangGraph state machine** — Ingest → Parse → Index → Plan → Generate → Review — that reverse-engineers a repo, embeds it into **PostgreSQL + pgvector** for RAG, maps bounded contexts to NestJS modules and Angular features, and generates the project with a **4-pass review loop** that retries on critical findings. |
+| **Stack** | `TypeScript` `LangGraph` `RAG` `pgvector` `OpenAI API` `NestJS` `Angular` `Clean Architecture` |
+| **Result** | Real migration included in the repo: a ~40-file IoT sensor platform → **37 files across 3 NestJS modules in 4 min 39 s**, with a migration quality report. |
+| **Repo** | [DiegoDeLaFlor/Legacy-to-Modern-Architect](https://github.com/DiegoDeLaFlor/Legacy-to-Modern-Architect) |
 
-### Digital UX — HealthTech Solution
+### 2️⃣ Agent for Bug Fixing — multi-agent orchestration
 
-|                  |                                                                                                      |
-| ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Focus**        | HealthTech web application for dermatology clinic management and patient scheduling.                 |
-| **Key Projects** | Dynamic calendar-based appointment booking, patient records system, secure credential management.    |
-| **Tech**         | `React` `Angular` `Node.js` `PostgreSQL` `JWT Auth` `Responsive Design`                              |
-| **Repository**   | [github.com/digital-ux-upc-open-source-2022-2](https://github.com/digital-ux-upc-open-source-2022-2) |
+| | |
+| --- | --- |
+| **Problem** | Fixing a bug ticket well means three different jobs: find the root cause, propose the minimal fix, and try to break it. One agent doing all three tends to skip the last one. |
+| **Solution** | An MVP of **three cooperating agents on LangGraph** — *Investigator* (RCA, locates suspect files), *Programmer* (minimal fix with impact assessment), *Verifier* (runs tests and tries to break the change) — driven from a local CLI with a JSON ticket. |
+| **Stack** | `Python` `LangGraph` `CLI` `pytest` |
+| **Result** | Console report with RCA, fix proposal, PASS/FAIL evidence and logs for every ticket. |
+| **Repo** | [DiegoDeLaFlor/Agent-for-bug-fixing](https://github.com/DiegoDeLaFlor/Agent-for-bug-fixing) |
 
-### Finanzas e Ingeniería Económica (FinTech Analytics)
+### 3️⃣ DevInsight — engineering intelligence platform
 
-|                  |                                                                                                            |
-| ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Focus**        | Financial engineering platform for complex calculations and automated reporting.                           |
-| **Key Projects** | NPV/IRR calculations, sensitivity analysis, automated report generation, data export pipelines.            |
-| **Tech**         | `Python` `Pandas` `NumPy` `Reporting APIs`                                                                 |
-| **Repository**   | [github.com/Finanzas-e-Ingenieria-Economica-SI82](https://github.com/Finanzas-e-Ingenieria-Economica-SI82) |
+| | |
+| --- | --- |
+| **Problem** | Teams have no cheap way to turn a GitHub repo into actionable architecture and quality insights. |
+| **Solution** | SaaS MVP: **ASP.NET Core backend (DDD + Clean Architecture)** with GitHub OAuth and repo cloning, a **Roslyn AST analyzer**, a **FastAPI AI engine** that generates insights, and a **React** dashboard. Orchestrated with Docker Compose. |
+| **Stack** | `C# / .NET 9` `Roslyn` `DDD` `Clean Architecture` `FastAPI` `Python` `React` `Docker` |
+| **Status** | Working MVP (analyze → view issues & insights). Next: EF Core persistence, multi-language AST. |
+| **Repo** | [DiegoDeLaFlor/DevInsight-Platform](https://github.com/DiegoDeLaFlor/DevInsight-Platform) |
+
+---
+
+## 🔒 Production & research work — private
+
+### QA Skills with LLM Agents — Mandü HR
+
+| | |
+| --- | --- |
+| **Problem** | Writing test cases by hand from Jira user stories and Confluence specs took ~50 hours per sprint. |
+| **Solution** | RAG pipeline over Jira + Confluence (**pgvector + ChromaDB**, OpenAI/Anthropic API), refactored into **modular skills** inside the internal LLM-agent toolkit: test-case generation, automatic Jira upload, endpoint → Postman mapping (happy & unhappy paths), and **Playwright E2E generation** that runs each case and captures evidence. |
+| **Impact** | **70.9% less time** creating test cases (50h → 14.55h per sprint), sustained in production and used daily by QA teams. |
+
+### Agricultural Recommendation System — IoT + Machine Learning
+
+| | |
+| --- | --- |
+| **Problem** | Coffee farmers lack data-driven guidance based on real field conditions. |
+| **Solution** | End-to-end research project: **ESP32 sensors** (humidity, NPK, rain) → **Spring Boot** edge backend → **.NET on Azure** → REST API serving predictions. |
+| **Result** | **3 models evaluated (Random Forest, XGBoost, CatBoost) on ~9,983 samples**; Random Forest selected for production. |
+
+### YouTube Shorts Content Automation
+
+| | |
+| --- | --- |
+| **Solution** | **n8n** flow chaining OpenAI (script) → Stability AI (images) → ElevenLabs (voice) → Google Sheets/Drive (queue & assets). |
+| **Result** | **20+ shorts per month** generated with no manual intervention. |
 
 ---
 
 ## 💻 Tech Stack
 
-### AI & Automation
+### AI & Agents
 
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+
+### QA & Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D3D3D3?style=flat-square&logoColor=black)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-F26B21?style=flat-square&logo=browserstack&logoColor=white)
 
 ### Backend & Cloud
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
@@ -138,26 +139,16 @@ My expertise lies at the intersection of **LLMs, RAG pipelines, MCP integrations
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-FF6B9D?style=flat-square&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Data & Databases
+### Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### QA & DevOps
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D3D3D3?style=flat-square&logoColor=black)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -176,19 +167,23 @@ My expertise lies at the intersection of **LLMs, RAG pipelines, MCP integrations
   </table>
 </div>
 
-> **Note:** Public contribution metrics reflect open-source and personal projects. Significant production work resides in private organizational repositories (Mandü HR platform, enterprise QA tooling, client integrations) due to confidentiality agreements.
+> **Note:** Public metrics reflect open-source and personal projects. Most of my production work lives in private organizational repositories under confidentiality agreements.
 
 ---
 
-## 🎬 Technical Storytelling & Content
+## 🎓 University projects — UPC, Software Engineering
 
-Beyond engineering, I run a **YouTube channel** exploring mystery, curiosity, and narrative-driven discovery. This creative practice sharpens my ability to:
+Earlier work from my degree, kept public for reference:
+[Four Dreams](https://github.com/fourdreamsupc) (DDD microservices on Azure, .NET) ·
+[AdventureHub](https://github.com/AdventureHub-AplicacionesMoviles) (Flutter + NestJS) ·
+[Diseño de Experimentos](https://github.com/Diseno-de-Experimentos) (Jenkins CI/CD, Cucumber BDD, JMeter) ·
+[Digital UX — DermApp](https://github.com/digital-ux-upc-open-source-2022-2) (React/Angular healthtech)
 
-- **Structure complex ideas** into compelling narratives
-- **Communicate technical concepts** to non-technical audiences
-- **Produce high-quality content** from research to delivery
+---
 
-The same discipline that powers a well-edited documentary applies to a well-designed system architecture.
+## 🎬 Content
+
+I also run a **YouTube channel** on mystery and narrative-driven discovery. Structuring a story from research to final cut is the same discipline as designing a system: know the audience, cut what doesn't serve the outcome.
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch_the_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CronoZ2926)
 
@@ -198,14 +193,13 @@ The same discipline that powers a well-edited documentary applies to a well-desi
 
 I'm interested in:
 
-- **End-to-end AI solutions** that enhance engineering velocity
-- **Cloud-native architectures** solving complex business problems
-- **Open-source contributions** advancing QA automation and DevOps tooling
-- **Technical mentorship** helping teams scale intelligently
+- **LLM agents and RAG systems** that ship to production and stay maintainable
+- **Developer tooling** that removes real hours from engineering workflows
+- **Open-source work** on agent orchestration and QA automation
 
 <div align="center">
-  
-  **[📧 Email](mailto:diegoalonso139@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/diego-de-la-flor-02048a237/) • [🐙 GitHub](https://github.com/DiegoDeLaFlor)**
+
+  **[📧 Email](mailto:diegoalonso139@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/diego-de-la-flor-02048a237/) • [🌐 Portfolio](https://diegodelaflor.netlify.app)**
 
 </div>
 
